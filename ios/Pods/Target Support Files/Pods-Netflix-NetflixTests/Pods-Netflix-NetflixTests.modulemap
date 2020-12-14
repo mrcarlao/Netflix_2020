@@ -1,0 +1,6 @@
+module Pods_Netflix_NetflixTests {
+  umbrella header "Pods-Netflix-NetflixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

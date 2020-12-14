@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1284801925/Netflix.iml" filepath="$PROJECT_DIR$/.idea/modules/-1284801925/Netflix.iml" group="Netflix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Netflix/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-981955886/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-981955886/react-native-firebase_app.iml" group="Netflix/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-962640849/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-962640849/react-native-gesture-handler.iml" group="Netflix/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1753823373/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1753823373/react-native-reanimated.iml" group="Netflix/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1524046576/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1524046576/react-native-screens.iml" group="Netflix/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/194370055/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/194370055/react-native-vector-icons.iml" group="Netflix/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>

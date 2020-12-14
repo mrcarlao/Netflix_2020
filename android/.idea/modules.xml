@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Netflix.iml" filepath="$PROJECT_DIR$/.idea/modules/Netflix.iml" group="Netflix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Netflix/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/831236956/react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/831236956/react-native-camera.iml" group="Netflix/react-native-camera" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-35415545/react-native-community-geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-35415545/react-native-community-geolocation.iml" group="Netflix/react-native-community-geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-35415545/react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-35415545/react-native-community_geolocation.iml" group="Netflix/react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-968159832/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-968159832/react-native-community_masked-view.iml" group="Netflix/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-981955886/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-981955886/react-native-firebase_app.iml" group="Netflix/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1216017397/react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1216017397/react-native-firebase_messaging.iml" group="Netflix/react-native-firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1563133205/react-native-geocoder.iml" filepath="$PROJECT_DIR$/.idea/modules/-1563133205/react-native-geocoder.iml" group="Netflix/react-native-geocoder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-962640849/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-962640849/react-native-gesture-handler.iml" group="Netflix/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-342689727/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-342689727/react-native-linear-gradient.iml" group="Netflix/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1753823373/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1753823373/react-native-reanimated.iml" group="Netflix/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1028518696/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1028518696/react-native-safe-area-context.iml" group="Netflix/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1524046576/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1524046576/react-native-screens.iml" group="Netflix/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/194370055/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/194370055/react-native-vector-icons.iml" group="Netflix/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>

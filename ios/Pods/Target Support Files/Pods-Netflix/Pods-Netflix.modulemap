@@ -1,0 +1,6 @@
+module Pods_Netflix {
+  umbrella header "Pods-Netflix-umbrella.h"
+
+  export *
+  module * { export * }
+}
